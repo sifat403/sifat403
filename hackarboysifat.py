@@ -68,6 +68,7 @@ os.system('espeak -a 300 " Assalamu' 'olaikum"')
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
 os.system('espeak -a 300 "well,come to,sifat, tools"')
+os.system('xdg-open https://www.facebook.com/profile.php?id=100088772568972.Ok.Bro')
 def logo():
 	os.system('clear');print(f"""\r\r\x1b[1;97m{W}
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
