@@ -63,6 +63,7 @@ flp=f"{W}[{G}•{W}] PUT FILE PATH\033[1;37m : {G}"
 chcps=f'EXAMPLE: {G}first123{W},{G}last123{W},{G}firstlast{W},{G}name{W}'
 mxxt=f'{W}[{G}A{W}] METHOD [{G}1{W}]\n{W}[{G}B{W}] METHOD [{G}2{W}]\n{W}[{G}C{W}] METHOD [{G}3{W}]'
 nflp=f"[{R}!{W}] FILE LOCATION NOT FOUND "
+os.system('clear')
 ############------[ LOGO ]------#########
 os.system('espeak -a 300 " Assalamu' 'olaikum"')
 os.system('espeak -a 300 " Your,   Real,  Name,"')
